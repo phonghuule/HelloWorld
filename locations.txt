@@ -4,3 +4,5 @@ USA
 Germany
 Switzerland
 Japan
+Hong Kong
+Macau
